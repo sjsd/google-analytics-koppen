@@ -7,7 +7,7 @@ Dette er kildekoden til registrering av Google Analytics-koppen. I disse tider b
 Denne koden / nettsiden registrerer antall museklikk i Google Analytics. Den registrerer om man trykker museknappen ned og når man slipper den.
 
 ## Oppsett
-Du må selv registrere en konto og profil hos [Google Analytics](www.google.no/analytics/). Bytt så ut *UA-XXXX-X* med din egen identifikasjon.
+Du må selv registrere en konto og profil hos [Google Analytics](http://www.google.no/analytics/). Bytt så ut *UA-XXXX-X* med din egen identifikasjon.
 
-# Opprinnelse for denne koden
-Se eget blogginnlegg og eksempel på hva jeg har brukt denne koden til på [www.escio.no/blogg/](www.escio.no/blogg/)
+## Opprinnelse for denne koden
+Se eget blogginnlegg og eksempel på hva jeg har brukt denne koden til på [www.escio.no/blogg/](http://www.escio.no/blogg/)
